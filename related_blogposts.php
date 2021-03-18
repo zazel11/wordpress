@@ -1,3 +1,9 @@
+/** To make it work paste this file into your current theme's root folder and paste the following line:
+
+'include('related-blogposts.php');'
+
+to the functions.php **/
+
 <?php
 
 /**
